@@ -5,6 +5,7 @@ theme = "bigspring-light"
 # post pagination
 paginate = "3"
 # post excerpt
+
 summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
